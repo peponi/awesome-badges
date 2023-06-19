@@ -8,7 +8,7 @@ _While this list is maintained by Paul Melnikow from the Shields core team, it
 includes Shields-related and non-Shields-related resources._
 
 ### Dynamic badge services
-
+- [Badgers.space](https://badgers.space/) &ndash; New Kid on the block, written in Rust (no Dockerfile yet)
 - [Shields.io](https://shields.io/) &ndash; Original home of the badges,
   launched in 2014.
 - [Badgen.net](https://badgen.net/) &ndash; Fast badge generating service launched
